@@ -819,7 +819,12 @@
         "url" : "https://raw.githubusercontent.com/eliperkins/base16-Ocean-Xcode-Theme/master/base16-Ocean.dvtcolortheme",
         "description" : "A spacegray/base16 Ocean-inspired color scheme for Xcode.",
         "screenshot" : "https://raw.githubusercontent.com/eliperkins/base16-Ocean-Xcode-Theme/master/Preview.png"
-      }
+      },
+      {
+"name": "MacKaTheme",
+"url": "https://github.com/MacKaSL/MacKaTheme",
+"description": "Changes the way you look at the XCode."
+}
     ],
     "project_templates": [
       {
